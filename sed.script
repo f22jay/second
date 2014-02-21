@@ -1,0 +1,7 @@
+/if/,/else/{
+	/if/a\
+	hihi
+	/else/a\
+	oooo
+	=
+}
